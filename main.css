@@ -1,3 +1,43 @@
 body{
-  background-color: black;
+  background-color: antiquewhite;
+  font-size: x-large;
+text-align: center;
+}
+
+
+
+  
+
+
+
+#articleOne{
+  font-family: monospace;
+  font-size: medium;
+  border-top: 2px solid black;
+  padding-bottom: 20px;
+}
+
+#articleTwo{
+  font-family: monospace;
+  font-size: medium;
+  border-top: 2px solid black;
+  padding-bottom: 20px;
+ 
+}
+
+#articleThree{
+  font-family: monospace;
+  font-size: medium;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding-bottom: 20px;
+
+}
+
+
+h2 {
+  color: salmon;
+}
+h1 {
+  color: salmon;
 }
