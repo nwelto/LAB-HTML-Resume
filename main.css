@@ -1,5 +1,5 @@
 body{
-  background-color: antiquewhite;
+  background-color: mediumaquamarine;
   font-size: x-large;
 text-align: center;
 }
@@ -13,31 +13,37 @@ text-align: center;
 #articleOne{
   font-family: monospace;
   font-size: medium;
-  border-top: 2px solid black;
+  border: 2px solid red;
+  
   padding-bottom: 20px;
 }
 
 #articleTwo{
-  font-family: monospace;
+  font-family: sans-serif;
   font-size: medium;
-  border-top: 2px solid black;
+  border: 2px solid red;
   padding-bottom: 20px;
  
 }
 
 #articleThree{
-  font-family: monospace;
+  font-family: Helvetica;
   font-size: medium;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
+  border-block-start: 2px solid red;
+  border: 2px solid red;
   padding-bottom: 20px;
 
 }
 
+ul{
+ 
+  padding-right: 30px;
+  
+}
 
 h2 {
-  color: salmon;
+  color: red;
 }
 h1 {
-  color: salmon;
+  color: red;
 }
